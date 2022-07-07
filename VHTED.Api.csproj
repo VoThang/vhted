@@ -16,7 +16,7 @@
     <PackageReference Include="Autofac" Version="4.9.2" />
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.4.0" />
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.8.2" />
-    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.8" />
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.15" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
     <PackageReference Include="OpenTokCore" Version="1.0.1" />
     <PackageReference Include="Serilog.Extensions.Logging" Version="2.0.4" />
